@@ -1,6 +1,5 @@
-# maven-repo
-Maven Repository
-# How to use
+# Maven Repository
+### How to use
 ```
 <repositories>
   <repository>
@@ -10,8 +9,8 @@ Maven Repository
   </repository>
 </repositories>
 ```
-# Repositories
-**Microsoft SQLServer JDBC 4.1**
+### Repositories
+- **Microsoft SQLServer JDBC 4.1**
 ```
 <dependency>
   <groupId>com.microsoft.sqlserver</groupId>
