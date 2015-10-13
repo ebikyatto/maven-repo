@@ -15,6 +15,6 @@ Maven Repository
 <dependency>
   <groupId>com.microsoft.sqlserver</groupId>
   <artifactId>sqljdbc</artifactId>
-	<version>4.1</version>
+  <version>4.1</version>
 </dependency>
 ```
