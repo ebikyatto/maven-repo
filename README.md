@@ -10,7 +10,8 @@ Maven Repository
   </repository>
 </repositories>
 ```
-**SQLJDBC 4.1**
+# Repositories
+**Microsoft SQLServer JDBC 4.1**
 ```
 <dependency>
   <groupId>com.microsoft.sqlserver</groupId>
