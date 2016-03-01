@@ -9,7 +9,7 @@
   </repository>
 </repositories>
 ```
-### Repositories
+### Dependencies
 - **Microsoft SQLServer JDBC 4.1**
 ```
 <dependency>
